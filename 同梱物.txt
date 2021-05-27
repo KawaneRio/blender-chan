@@ -1,0 +1,46 @@
+【同梱物】
+
+・readme.txt 
+みんなだいすきりーどみーちゃん。
+
+・Meにでもわかる！リオ式ブレンダーちゃんの全て.txt 
+B O O T H で 見 た
+
+・Everything About Blender-chan RT.txt 
+B O O T H で 見 た #デジャヴ
+
+・blender-chan_v0.22h.blend
+ブレンダー用の.blendファイル #それはそう
+
+・blender-chan_v0.22h.unitypackage
+なんかアニメーションとか色々入ったunitypackageらしい。ちゃんとフォルダ整理しててえらいっ! :erait:
+
+・blender-chan_v0.22j.fbx
+FBXとかいう謎の形式データ。
+
+・blender-chan_suit.png
+自作アイコン。てかBlenderで作った衣装をワールド透過で出力したやつ。ExpressionMenuで使う。
+
+・suzanne_icon_edited.png
+自作アイコン其の二。これはBlenderで作ったスザンヌを自作トゥーンシェーダーと共に出力して、Kritaで仕上げのキラキラとか手直しを描き加えたもの。これもまたExpressionMenu内で使う。
+
+・kabocha_smile.png
+完全自作アイコン。これは唯一Blender無しで全部Kritaで描きあげたもの。我の絵心力が伺へる。因みにカボチャの元ネタは沼地辺境伯zen先生による「ワニでもわかるゼロからのBlender」シリーズ🔗https://www.youtube.com/watch?v=7oNfgOOcKm8 です。この動画が我の人生を恐ろしいほどに変えたと言っても決して過言では無いです(そもそもこの動画以前にBlenderほぼ触ったことが無かったので...)。
+Zen先生、もしこれを読んでいたら一言言わせてください。
+本当にありがとうございますm(_ _)m
+
+・hair.tex.png
+髪テキスチャ。何度手直ししたか覚えてない。Toonlitでおｋ。
+間違っても神テキスチャでは無い。hair.tex.png.kraなんてものはなかった（白目）
+
+・skin.tex.png
+肌テキスチャ。取り敢へずToonlitでおｋ。えっ、.kraで終わるファイルは一体何なんだって？...さ、さぁ？ #ｱﾚﾚｿﾝﾅﾌｧｲﾙﾅﾝﾃｱｯﾀｯｹﾅｰ
+
+・eye.tex.png
+目テキスチャ。ココ最近一番の自信作。目だけは小さい頃から描くの好きだったけど、まさかこんな形でスキル活用されるとは夢にも思っていなかったべ。StandardliteでEmissionかけてあげると目が光るよ。
+
+・同梱物.txt
+###深刻なエラーが発生しました###
+
+・連絡先.txt
+（仕事欲しき）
