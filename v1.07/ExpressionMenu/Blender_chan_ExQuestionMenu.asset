@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExQuestionMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u3082\u3063\u3068Meer!"
+    icon: {fileID: 2800000, guid: a06282136d558c54aa15d533f163ff59, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 93e05ae7a3be85146be1d3367baad330, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u7B11\u3044\u7DDA\uFF08\u30DD\u30CA\u7B26\u3001\u30EF\u30A4\u30AC\u30E4\u7B26\uFF09"
+    icon: {fileID: 0}
+    type: 101
+    parameter:
+      name: facex
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30D0\u30F3\u30BD\u30FC\u30B3\u30FC"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: facex
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5782\u308C\u7DDA\uFF08\u30AC\u30C3\u30AF\u30EA\u7B26\uFF09"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: facex
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u6012\u308A\u30DE\u30FC\u30AF\uFF08\u6012\u308A\u6841\uFF09"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: facex
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5358\u6C57\u305F\u308C"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: facex
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u97F3\u7B26"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: facex
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u8863\u88C5\u306E\u8A2D\u5B9A"
+    icon: {fileID: 2800000, guid: e0e5047c2f739a9798f65606ec8aede1, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 90a0319575afdcd468a059407a867553, type: 2}
+    subParameters: []
+    labels: []
