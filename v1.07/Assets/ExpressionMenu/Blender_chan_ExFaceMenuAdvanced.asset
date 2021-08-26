@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExFaceMenuAdvanced
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u76EE"
+    icon: {fileID: 2800000, guid: a06282136d558c54aa15d533f163ff59, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0a75d15b782a104b4973ad904393c1d4, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u76EE\uFF08\u30AB\u30B9\u30BF\u30E0\uFF09"
+    icon: {fileID: 2800000, guid: a06282136d558c54aa15d533f163ff59, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 9c10c30ada99c47f0bf17f3a70ad149a, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u53E3"
+    icon: {fileID: 2800000, guid: a06282136d558c54aa15d533f163ff59, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1dc184d58a6fd82f4a27abce33299b8f, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u7709"
+    icon: {fileID: 2800000, guid: a06282136d558c54aa15d533f163ff59, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 07fc0af0d35f958f9bf4cb484a18c6fa, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30EC\u76EE\uFF08\u865A\u308D\u76EE\uFF09"
+    icon: {fileID: 2800000, guid: 33345d2012790abf19fe3de024327838, type: 3}
+    type: 102
+    parameter:
+      name: HideEyeHighlights
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30C9\u30FC\u30CA\u30C3\u30C4\u307F\u305F\u3044\u306A\u76EE\u306B\u3059\u308B"
+    icon: {fileID: 2800000, guid: f97912764bf9ccb1280ab2af4837839a, type: 3}
+    type: 102
+    parameter:
+      name: eye_centerhighlight
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

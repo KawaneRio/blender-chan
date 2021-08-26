@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExPara
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: VRCEmote
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: VRCFaceBlendH
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: VRCFaceBlendV
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: WearKabocha
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowDonut
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowBunny
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowLogo1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowLogo2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowLogoTraces
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowSpot
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowTeacup
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowTeapot
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: HideArmwear
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: HideDress
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: HideDressLogo
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: HideShoes
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowBenchy
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowBlenderStudio
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowCube
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowCD
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: ShowCD2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Wing
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: face
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: eye
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: eyeb
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: HideEyeHighlights
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: WearSuzanne
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_bandaid
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_blush_ellipse
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_blush_lines
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_gakkuri
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_jaki
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_muka
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_note
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_pona
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_sparkles
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_sweat4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: face_sweat_down
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_nosebleed
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: facex_hematemesis
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: face_ROFL
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: x_q
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: eye_custom
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: mouth
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: ShowTongue
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: eye_centerhighlight
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: BlenderUI_ParentConstraint
+    valueType: 2
+    saved: 0
+    defaultValue: 0

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExQuestionMenuSub
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u98DB\u3073\u6C57"
+    icon: {fileID: 2800000, guid: a67903a4ff16ffbe885578b568916c34, type: 3}
+    type: 102
+    parameter:
+      name: facex_sweat4
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30C6\u30EC\u7DDA"
+    icon: {fileID: 2800000, guid: 4fc9b0523aaa896dda0e7e8d16e3c284, type: 3}
+    type: 102
+    parameter:
+      name: facex_blush_lines
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5410\u8840"
+    icon: {fileID: 2800000, guid: c8cc921b03caf3acaa6d8a14cd15ed47, type: 3}
+    type: 102
+    parameter:
+      name: facex_hematemesis
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u9F3B\u8840"
+    icon: {fileID: 2800000, guid: ad423eb2817a504dea57b3548b3dc1ff, type: 3}
+    type: 102
+    parameter:
+      name: facex_nosebleed
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30C6\u30EC\u5186"
+    icon: {fileID: 2800000, guid: 23cf3bf32bc9fa53099843ee571c8a34, type: 3}
+    type: 102
+    parameter:
+      name: facex_blush_ellipse
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30AD\u30E9\u30C3\u2606"
+    icon: {fileID: 2800000, guid: 4ff6562f53ba3eb54937573a776fb5a1, type: 3}
+    type: 102
+    parameter:
+      name: facex_sparkles
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u97F3\u7B26"
+    icon: {fileID: 2800000, guid: 1e9eb21257138b86e92905bc81d72c5b, type: 3}
+    type: 102
+    parameter:
+      name: facex_note
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

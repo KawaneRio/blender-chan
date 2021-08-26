@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExTrickMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Blender
+    icon: {fileID: 2800000, guid: 0d3f41f1ec30d86cab5eb88e54225e2b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8ccda60465b898547988c77465608ef0, type: 2}
+    subParameters: []
+    labels: []
+  - name: Show 3D Benchy
+    icon: {fileID: 2800000, guid: b7df4f7c5d826a280a42299dc58c7de9, type: 3}
+    type: 102
+    parameter:
+      name: ShowBenchy
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Donut
+    icon: {fileID: 2800000, guid: 37aa5b76c662d7f99bcdaa48b208f045, type: 3}
+    type: 102
+    parameter:
+      name: ShowDonut
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Spot
+    icon: {fileID: 2800000, guid: 1f002f6974c43f4abaa826ebf7d264ab, type: 3}
+    type: 102
+    parameter:
+      name: ShowSpot
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Stanford Bunny
+    icon: {fileID: 2800000, guid: 765916d495872fb6f9dd62d2e79ce362, type: 3}
+    type: 102
+    parameter:
+      name: ShowBunny
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Wear Kabocha
+    icon: {fileID: 2800000, guid: e519a0f9c39053a32bb001548c54f742, type: 3}
+    type: 102
+    parameter:
+      name: WearKabocha
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Utah Teapot
+    icon: {fileID: 2800000, guid: e4745bcbbe5ba12819641882babb723a, type: 3}
+    type: 102
+    parameter:
+      name: ShowTeapot
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Teacup
+    icon: {fileID: 2800000, guid: c8baed4f9ca13434fa925e962327fa19, type: 3}
+    type: 102
+    parameter:
+      name: ShowTeacup
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

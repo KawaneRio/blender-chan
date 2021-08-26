@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExFaceMenuAdvancedMouthKuri
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u5927\u6817"
+    icon: {fileID: 2800000, guid: cc2ba2462c5647240aa7278b21137e2f, type: 3}
+    type: 102
+    parameter:
+      name: mouth
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u307A\u3063\u305F\u3093\u6817"
+    icon: {fileID: 2800000, guid: 0514a63ca8671d22a8daf5902d26bf2c, type: 3}
+    type: 102
+    parameter:
+      name: mouth
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5C0F\u6817"
+    icon: {fileID: 2800000, guid: c1bda0351d296cafeb5470e0edb53f71, type: 3}
+    type: 102
+    parameter:
+      name: mouth
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u7E26\u6817"
+    icon: {fileID: 2800000, guid: 35d538d8585236d94b8092cfe94305f8, type: 3}
+    type: 102
+    parameter:
+      name: mouth
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5C0F\u7E26\u6817"
+    icon: {fileID: 2800000, guid: 2e98ea81f78c56c9faf1db822aa27462, type: 3}
+    type: 102
+    parameter:
+      name: mouth
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u3061\u3063\u3061\u3083\u3044\u6817"
+    icon: {fileID: 2800000, guid: c1bda0351d296cafeb5470e0edb53f71, type: 3}
+    type: 102
+    parameter:
+      name: mouth
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

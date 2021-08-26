@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExMainMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\uFF1E\uFF1C"
+    icon: {fileID: 2800000, guid: 850e035ef4bca1f03be4b54f00ee44d7, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2db78fd6bd2902b829b2b205f1ea6377, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\uFF01\uFF1F"
+    icon: {fileID: 2800000, guid: abdc7da0d5c2ae4af8babf31f7457988, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: dbeca671f9d58220b8ff8cb181b91f8a, type: 2}
+    subParameters: []
+    labels: []
+  - name: 3D
+    icon: {fileID: 2800000, guid: 83c6537ebf10da1cba2900bb5b50675c, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 68192e81569991cb7b87fdf4339113a2, type: 2}
+    subParameters: []
+    labels: []
+  - name: "VRChat\u30C7\u30D5\u30A9\u30EB\u30C8\u30EB\u30FC\u30D7\u30A2\u30AF\u30B7\u30E7\u30F3\u96C6"
+    icon: {fileID: 2800000, guid: 9a20b3a6641e1af4e95e058f361790cb, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d0339a3cd2e7b50d4b923d8ce976364d, type: 2}
+    subParameters: []
+    labels: []

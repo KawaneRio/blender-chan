@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExVRCDefActionMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\uFF11\uFF0E\u624B\u3092\u632F\u308B"
+    icon: {fileID: 2800000, guid: 5acca5d9b1a37724880f1a1dc1bc54d3, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\uFF12\uFF0E\uFF8A\uFF9F\uFF81\uFF8A\uFF9F\uFF81\uFF8A\uFF9F\uFF81\uFF8A\uFF9F\uFF81"
+    icon: {fileID: 2800000, guid: 70532155452b91149bd82125c362ca6b, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\uFF13\uFF0E\u304A\u3001\u304A\u524D\u306F\u30FB\u30FB\u30FB\uFF01\uFF08\u8AB0\u3060\u3063\u3051\uFF09"
+    icon: {fileID: 2800000, guid: 011229dd2f6f5f64f8965a08d3434654, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\uFF14\uFF0EBring it on!! \u301C\u30B9\u30FC\u30D1\u30FC\u30B4\u30EA\u30E9\u30BF\u30A4\u30E0\u30D5\u30A3\u30FC\u30D0\u30FC"
+    icon: {fileID: 2800000, guid: 9a20b3a6641e1af4e95e058f361790cb, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\uFF15\uFF0EVRC\u30C0\u30F3\u30B9"
+    icon: {fileID: 2800000, guid: c5e080a0a5aff4cf1812cf45fd85f93f, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\uFF16\uFF0E\u30D0\u30AF\u5B99 \u2605Backflip\u2605"
+    icon: {fileID: 2800000, guid: 7dc1b36971167082a91876c83a880aab, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\uFF17\uFF0E\u3061\u3047\u3063...\uFF08\u77F3\u8E74\u308A\uFF09"
+    icon: {fileID: 2800000, guid: b6958ecb7fc1e3941ae0b1b47b4c56c0, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\uFF18\uFF0E\uFF1C\uFF1C\u7A81\u7136\u306E\u6B7B\uFF1E\uFF1E "
+    icon: {fileID: 2800000, guid: 486e334fcce2f27e2ac00f75fa37ba9e, type: 3}
+    type: 102
+    parameter:
+      name: VRCEmote
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

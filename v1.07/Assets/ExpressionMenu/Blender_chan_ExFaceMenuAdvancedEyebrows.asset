@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExFaceMenuAdvancedEyebrows
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Down
+    icon: {fileID: 2800000, guid: ad3c39258bf06e95888b962bb3af410d, type: 3}
+    type: 102
+    parameter:
+      name: eyeb
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Ready
+    icon: {fileID: 2800000, guid: 1c24b4a7fb59610078a6afafa23e61f8, type: 3}
+    type: 102
+    parameter:
+      name: eyeb
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Serious
+    icon: {fileID: 2800000, guid: 0fe755c1d0927a5798077fa8ec6854df, type: 3}
+    type: 102
+    parameter:
+      name: eyeb
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Surprise
+    icon: {fileID: 2800000, guid: 865c05a4e6263f6018921b73fcaa316e, type: 3}
+    type: 102
+    parameter:
+      name: eyeb
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sympathy
+    icon: {fileID: 2800000, guid: 700b4221888fabcd49870a8e5f3e0056, type: 3}
+    type: 102
+    parameter:
+      name: eyeb
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

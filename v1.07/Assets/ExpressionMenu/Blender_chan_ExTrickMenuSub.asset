@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Blender_chan_ExTrickMenuSub
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Wear Suzanne
+    icon: {fileID: 2800000, guid: 2c7f9d416536cc81a9015c9dbe71fca1, type: 3}
+    type: 102
+    parameter:
+      name: WearSuzanne
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Traces Logo
+    icon: {fileID: 2800000, guid: 9944c125cc6351c8eb6ffb18af4996b1, type: 3}
+    type: 102
+    parameter:
+      name: ShowLogoTraces
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Blender Old Logo
+    icon: {fileID: 2800000, guid: a55ced4bbdc02df97ad5cb8cfaee7e0c, type: 3}
+    type: 102
+    parameter:
+      name: ShowLogo1
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Blender New Logo
+    icon: {fileID: 2800000, guid: 659167ac2e8e06c2db392a34669c81ec, type: 3}
+    type: 102
+    parameter:
+      name: ShowLogo2
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Blender Disk
+    icon: {fileID: 2800000, guid: bee532e95054b18eba1048a3840d2a21, type: 3}
+    type: 102
+    parameter:
+      name: ShowCD2
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Show Blender UI
+    icon: {fileID: 2800000, guid: cf7115289b76aed86864597ad8658f85, type: 3}
+    type: 102
+    parameter:
+      name: ShowBlenderStudio
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Drop Blender UI
+    icon: {fileID: 2800000, guid: f310c3dbad3125d4e8fc2e00bdc2acb4, type: 3}
+    type: 102
+    parameter:
+      name: BlenderUI_ParentConstraint
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u7FBD\u306E\u8ABF\u6574"
+    icon: {fileID: 2800000, guid: 28321eba463c76e8098d510fc6c4c87a, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Wing
+    labels: []
