@@ -1,19 +1,25 @@
+# Blenderちゃん
+
+## Languages
+- [日本語](#日本語)
+- [Nederlands](#Nederlands)
+
+
+
+##日本語
 本日は【リオ式】ブレンダーちゃん【3Dモデル】をダウンロードしていただき誠にありがとうございます。このファイルは『利用規約』『免責事項』『同梱物』『ブレンダーちゃんをVRChatへアップロードしようぜ手順』『MeにでもわかるQ&A』『連絡先』『和蘭訳版』を全て一つにまとめたreadmeとなります。
 
 
-
-＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
-【利用規約】＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+###【利用規約】
 本作品は！！！二次創作です！！！！
 Blender®及びBlenderのロゴはBlenderの会社(The Blender Foundation)の著作物だけどリオ式「ブレンダーちゃん」はBlenderから許可を得て作ったモデルじゃないのです！このモデルを使って Blender や The Blender Foundation を傷つけるような行動をするのは絶対にやめてね！
 ブレンダーロゴの使用とガイドラインに関しては公式サイトを參照してくださいな→ https://www.blender.org/about/logo/
 
-【免責事項】
+###【免責事項】
 たとえこのアバターを使用したことでPCが爆発したり、○nityちゃんに嫌われたり、宝くじが外れたり、ほろ苦いお砂糖なトラブルが発生したりしても作者は一切の責任は持てません！が、話なら聞きます（キクダケ＝タダ事項）。
 
 
-
-【同梱物】＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+###【同梱物】
 ・readme.txt
 今読んでるコレだよ！利用規約と免責事項、アップロード手順、Q&A、連絡先、和蘭語訳版のreadmeを全部一つにまとめたらしいよ！
 
@@ -42,15 +48,13 @@ Quest用のモデルが入ったフォルダーだよ！テキスチャが全部
 本モデルに使ふたテキスチャが入ったファイルだよ！改変がしやすいように、.kra形式のファイルもあるよ！詳しくは tex/krita/ の中を見てね！
 
 ・tex/krita/
-本モデル用にKritaで作成したテキスチャだよ！どこかのプロプライエタリなフォ○ショと違って、KritaはBlenderみたいに100%無料かつ自由なオープンソースソフトウェアだから、誰でも自由に.kra形式を開いて全レイヤーを編集できるようになってるよ！ #Kritaはいいぞ 
+本モデル用にKritaで作成したテキスチャだよ！どこかのプロプライエタリなフォ○ショと違って、KritaはBlenderみたいに100%無料かつ自由なオープンソースソフトウェアだから、誰でも自由に.kra形式を開いて全レイヤーを編集できるようになってるよ！ #Kritaはいいぞ
 https://krita.org/jp
 ※豆知識もとい黒歴史：もともとKritaはLinuxのKDE環境用に作られたGIMPのフォーク(派生ソフト)で、当初の名前はKIMPだった。初めは色々な機能をぶっこんだKDE用のGIMPといった感じだったが、結構重く、しかもバグが多く、ぶっちゃけ本家GIMPの方がより安定してをり、軽く、かつ高性能だった（「KritaはGIMPに劣る」偏見はこれが元凶）。そこでKrita(Krayonと呼ばれてた)は、GIMPやPhot○shopといったいわゆる「画像編集ソフト」になるのをあきらめ、完全に別のルートへ進む事を決意。後に「つよつよ画像"作成"ソフト」として名が知られるようになり今日へ至る。現在Kritaは、他の画像ソフトとは全く異なるかなりクセの強い操作性で油繪や水彩畫等をゼロから描くことを得意とした最強のオープンソースペインティングソフトウェアだ。#キキちゃんかわいいよｈｓｈｓ #君もKritanにならないか？
 
 
+###【ブレンダーちゃんをVRChatへアップロードしようぜ手順】
 
-＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
-＃【ブレンダーちゃんをVRChatへアップロードしようぜ手順】＃
-＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
 ①VRChatで使はれている最新のUnityを https://docs.vrchat.com/docs/current-unity-version から確かめよう！このreadmeを書いた時は　Unity2019.4.29f1 でした。
 
 ②上記のUnity(2019.4.29f1)をインストールして、新しいプロジェクトを開きませう！
@@ -88,7 +92,7 @@ https://krita.org/jp
 　Viseme: ou: u_OU
 　
 　次にEye Look を Enable! しませう。以下の設定をします。
-　Eyes 
+　Eyes
 　　Transforms
 　　　Left Eye Bone: Eye.L
 　　　Right Eye Bone: Eye.R
@@ -130,7 +134,7 @@ https://krita.org/jp
 ⑨これで終わりです！アバターアップロードおつかれさまです！
 
 
-【MeにでもわかるQ&A】＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+###【MeにでもわかるQ&A】
 Q. これはなに？
 A. きゅーあんどえいだよ！英語で「質問と回答」（Questions and Answers）を意味するよ！
 
@@ -139,19 +143,19 @@ A. あっリオ式「ブレンダーちゃん」は、世界的に有名な自�
 
 Q. 自作？
 A. 自作だよ！でも、元ネタはあるよ! https://sketchfab.com/3d-models/blender-chan-6835f0d60e0c4813812c0247e3b73da7
-香港にいるSearKitchenさんって方が2017年2月12日に最初の"Blender-chan!"をSketchfabっていうサイトで公開してて、そのSearKitchenさんの三面図(スケッチ)をもとに独自解釈してゼロから作ったのが本作リオ式「ブレンダーちゃん」なのですー。SearKitchenさんの作った"Blender-chan!"はいい感じの骨(IK)がちゃんと組まれてて、Blenderでのアニメーションに特化してるのに対して、川音さんの作ったリオ式「ブレンダーちゃん」は、VRChatっていうゲームの中で使われることを想定したローポリモデルなのが一番の違いだよ！ #VRChat想定モデル	
+香港にいるSearKitchenさんって方が2017年2月12日に最初の"Blender-chan!"をSketchfabっていうサイトで公開してて、そのSearKitchenさんの三面図(スケッチ)をもとに独自解釈してゼロから作ったのが本作リオ式「ブレンダーちゃん」なのですー。SearKitchenさんの作った"Blender-chan!"はいい感じの骨(IK)がちゃんと組まれてて、Blenderでのアニメーションに特化してるのに対して、川音さんの作ったリオ式「ブレンダーちゃん」は、VRChatっていうゲームの中で使われることを想定したローポリモデルなのが一番の違いだよ！ #VRChat想定モデル
 
 Q. Blenderのロゴ勝手に使っちゃっていいの？
 A. 質問が曖昧！一応ロゴの規約は公式サイト https://www.blender.org/about/logo/ を参考にしてて、とりあえずウチは別に利益だしてないし、二次創作という形で提供してるのでセーフなハズ。無論、Blender本社からブレンダーちゃんの配布ダメって言われたら配布止めますが...。もしこれがBlenderのロゴを使ひたいユーザーさんからの質問なら、Blenderの公式サイトに目を通して下さいな。
 
 
-【制作履歴】
+###【制作履歴】
 2021年3月3日　ブレンダーちゃん製作開始
 2021年5月21日　Ver.0.22h公開
 2021年8月24日　Ver.1.08f公開
 
 
-【連絡先】＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+###【連絡先】
 
 ・BOOTH
 https://kawane.booth.pm/conversations
@@ -173,7 +177,6 @@ mailto:info@kawane.icu
 おしごとほちい...
 
 
-
 これからも川音家を何卒よろしくおねがいします。
 
 令和3年8月24日
@@ -182,34 +185,17 @@ mailto:info@kawane.icu
 川音リオ＠KawaneRio
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 以下和蘭語版
 
+
+## Nederlands
 
 Hartelijk dank voor het downloaden van Blender-chan RT!
 Dit is een bestand dat alles zou moeten bevatten wat je moet weten over deze avatar... maar dan in het Nederlands. Waarom? Omdat Blender-chan RT's moedertaal Nederlands is (Ze is eigenlijk een android die een mix is van Japans en Nederlands). Daarom is de readme in het Nederlands geschreven.
 
 
-＃＃＃＃＃＃＃＃＃＃＃＃
-【Gebruiksvoorwaarden】
-＃＃＃＃＃＃＃＃＃＃＃＃
+###【Gebruiksvoorwaarden】
+
 BELANGRIJK: Dit is een fanart model!!!
 Hoewel Blender® en het Blender logo auteursrechtelijk beschermd zijn door The Blender Foundation, is Blender-chan RT op geen enkele manier verbonden met Blender! Gebruik dit model alstublieft niet om Blender of The Blender Foundation op welke manier dan ook te schaden!
 Als je meer wilt weten over het Blender logo, kijk dan op de officiële website voor richtlijnen https://www.blender.org/about/logo/
@@ -218,8 +204,7 @@ DISCLAIMER (BEPERKING VAN AANSPRAKELIJKHEID)
 DIT IS HET DEEL WAAR IK SCHRIJF IN ALLE CAPS OM HET TE LATEN LIJKEN ALSOF IK PRAAT OVER IETS SUPER BELANGRIJKS, MAAR EIGENLIJK ZEG IK GEWOON DAT JE MIJ NIET DE SCHULD KAN GEVEN ALS JE PC KAPOT GAAT NADAT JE MIJN MODEL HEBT GEDOWNLOAD. SORRY:p
 
 
-
-【Inbegrepen bestanden】＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+###【Inbegrepen bestanden】
 ・readme.txt
 Het is wat je nu aan het lezen bent! Gebruiksvoorwaarden en disclaimer, upload instructies, Q&A, contact, en een Japans-Nederlandse vertaling van de readme, alles in één pakket!a
 
@@ -227,7 +212,7 @@ Het is wat je nu aan het lezen bent! Gebruiksvoorwaarden en disclaimer, upload i
 Dit is het hoofdpakket! Dit is de allereerste keer dat ik iets maak met meer dan 256 shapekeys! Sorry dat ik per ongeluk alle meshes samenvoegde tijdens het proces.
 
 ・Blender-chan_v1.08f.unitypackage
-Dit is het echte hoofdpakket! Het enige wat je moet doen is een nieuw Unity2019.4.29f1 project openen, VRCSDK importeren en dan dit Blender-chan_v1.08f.unitypackage slepen en neerzetten en 99% van het werk zou voor jou gedaan moeten zijn! ...wel, in theorie tenminste. 
+Dit is het echte hoofdpakket! Het enige wat je moet doen is een nieuw Unity2019.4.29f1 project openen, VRCSDK importeren en dan dit Blender-chan_v1.08f.unitypackage slepen en neerzetten en 99% van het werk zou voor jou gedaan moeten zijn! ...wel, in theorie tenminste.
 
 ・blender-chan_v1.08b.fbx
 🤔🤔🤔🤔🤔🤔🤔🤔
@@ -250,15 +235,13 @@ Dit is een map met alle textures die voor dit model zijn gebruikt. Ik heb ook de
 ・tex/krita/
 Dit is de map die alle krita documenten bevat die gebruikt zijn om de texturen voor Blender-chan RT te maken! (behalve hair.tex.png.kra. Dat bestand werd per ongeluk overschreven met skin.tex.png.kra. dus het is nu voor altijd verloren...).
 Om deze bestanden te kunnen bewerken, moet je Krita installeren. Krita is een gratis en open-source schilderprogramma dat werkt op elk OS: Linux, Apple, of Windows.
-https://krita.org/en 
+https://krita.org/en
 
 
+### Laten we Blender-chan RT uploaden naar VRChat!
 
-＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
-#Laten we Blender-chan RT uploaden naar VRChat!#
-＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
 1. Bekijk de nieuwste Unity gebruikt in VRChat op https://docs.vrchat.com/docs/current-unity-version !
-Toen ik deze readme schreef, was het Unity 2019.4.29f1. 
+Toen ik deze readme schreef, was het Unity 2019.4.29f1.
 
 2. Installeer Unity(2019.4.29f1) en open een New Project!
 
@@ -333,10 +316,10 @@ Toen ik deze readme schreef, was het Unity 2019.4.29f1.
 
 8. Ga naar VRCSDK in het Unity menu, klik op Show Control Panel en meld u aan bij VRChatSDK. Herstel eventuele fouten die hier verschijnen. Als er geen fouten zijn, kunt u het model uploaden.
 
-⑨. Congraduations!! Je hebt het model geupload naar VRChat! Test om er zeker van te zijn dat alles werkt in het spel. 
+⑨. Congraduations!! Je hebt het model geupload naar VRChat! Test om er zeker van te zijn dat alles werkt in het spel.
 
 
-【Q&A】＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+###【Q&A】
 Q. Wat is dit?
 A. Dit is de vraag en antwoord sectie! Q&A betekent Questions(Vragen) en Answers(Antwoorden) in het Engels!
 
@@ -348,13 +331,13 @@ A. Ja ik heb het helemaal zelf gemaakt! Maar de ontwerpen zijn gebaseerd op een 
 Ik nam die schets en maakte dan dit model, Blender-chan RT vanaf nul.
 
 
-【Version History】＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+###【Version History】
 2021/3/3　Project Started
 2021/5/21　Published Ver.0.22h
 2021/8/24　Published Ver.1.08f
 
 
-【Contact】＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+###【Contact】
 
 ・BOOTH
 https://kawane.booth.pm/conversations
