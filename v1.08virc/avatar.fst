@@ -1,6 +1,6 @@
-name = Blender-chan_v1.08hifi
+name = Blender-chan_v1.08vc
 scale = 1
-filename = blender-chan_v1.08.hifi.fbx
+filename = blender-chan_v1.08vc.fbx
 marketplaceID = {00000000-0000-0000-0000-000000000000}
 texdir = textures
 joint = jointEyeLeft = LeftEye
